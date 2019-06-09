@@ -24,8 +24,4 @@ class ConsoleOutput
       puts "#{view.link} #{view.unique_views} unique views."
     end
   end
-
-  def print(message)
-    puts message
-  end
 end

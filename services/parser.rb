@@ -1,5 +1,4 @@
 require 'byebug'
-require 'csv'
 require_relative '../lib/visitor'
 require_relative '../lib/visitor_views'
 require_relative './console_output'
